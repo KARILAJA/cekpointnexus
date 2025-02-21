@@ -1,2 +1,2 @@
 npm install axios
-node bot.js <wallet-address>
+node bot.js 0xACc2f5a28e5b9995994dE354250715e2E0b93f0d
